@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ShopingCart", "ShopingCart.esproj", "{D810A40C-4F4F-483F-87A3-C6819DF71ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D810A40C-4F4F-483F-87A3-C6819DF71ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D810A40C-4F4F-483F-87A3-C6819DF71ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D810A40C-4F4F-483F-87A3-C6819DF71ECF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D810A40C-4F4F-483F-87A3-C6819DF71ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D810A40C-4F4F-483F-87A3-C6819DF71ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D810A40C-4F4F-483F-87A3-C6819DF71ECF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0743276D-2A88-4527-847A-7A6CC61EEAA7}
+	EndGlobalSection
+EndGlobal

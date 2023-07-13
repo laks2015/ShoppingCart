@@ -1,0 +1,1 @@
+D:\Udemy\CustomerAPI\ShoppingCart\ShopingCart\obj\Debug\ShopingCart.esproj.CoreCompileInputs.cache
